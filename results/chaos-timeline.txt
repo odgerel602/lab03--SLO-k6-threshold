@@ -1,0 +1,5 @@
+20:14:58.544  k6 START (vus=20, duration=2m)
+20:15:44.598  server STOP (taskkill /F PID 12492 — Ctrl+C-тэй адил гэнэтийн зогсолт)
+20:15:55.349  server RESTART (node server.js)
+20:16:03.028  first successful response after restart
+20:17:00.695  k6 END
